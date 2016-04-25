@@ -1,0 +1,6 @@
+D:\visual studio\WCFexample\WCFexample\obj\Debug\WCFexample.csprojResolveAssemblyReference.cache
+D:\visual studio\WCFexample\WCFexample\bin\WCFexample.dll.config
+D:\visual studio\WCFexample\WCFexample\bin\WCFexample.dll
+D:\visual studio\WCFexample\WCFexample\bin\WCFexample.pdb
+D:\visual studio\WCFexample\WCFexample\obj\Debug\WCFexample.dll
+D:\visual studio\WCFexample\WCFexample\obj\Debug\WCFexample.pdb
